@@ -15,6 +15,11 @@ OpenAI为用户提供了多样的支付方式，支持包括但不限于以下�
 
 这些卡均可用于支付ChatGPT Plus的订阅费用，确保全球用户都能享受到OpenAI的高级服务。
 
+
+☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://bit.ly/bewildcard)
+
+ 使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Claude、Google Play、Apple Store、OpenAI、X、Patreon、MidJourney、Amazon、POE、Microsoft、Facebook、GitHub、Telegram、PayPal等各类海淘订阅平台。使用邀请码：ACCPAY，立享消费0手续费，减免开卡费用。
+ 
 ## 如何绑定信用卡到您的OpenAI账户
 
 绑定信用卡是一个简单的过程，只需几个步骤：
@@ -55,6 +60,3 @@ A: 目前OpenAI主要支持Visa、MasterCard和American Express。对于其他�
 **Q: 绑定信用卡安全吗？**  
 A: OpenAI使用先进的安全技术来保护用户信息，您的支付数据是安全的。
 
-☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://bit.ly/bewildcard)
-
- 使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Claude、Google Play、Apple Store、OpenAI、X、Patreon、MidJourney、Amazon、POE、Microsoft、Facebook、GitHub、Telegram、PayPal等各类海淘订阅平台。使用邀请码：ACCPAY，立享消费0手续费，减免开卡费用。
